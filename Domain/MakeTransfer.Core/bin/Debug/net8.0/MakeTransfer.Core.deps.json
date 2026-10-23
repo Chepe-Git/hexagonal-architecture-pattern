@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MakeTransfer.Core/1.0.0": {
+        "runtime": {
+          "MakeTransfer.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MakeTransfer.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

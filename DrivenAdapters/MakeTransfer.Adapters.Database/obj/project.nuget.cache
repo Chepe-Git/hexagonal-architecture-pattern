@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t4DSjfCPs/A=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RicardoChepe\\Documents\\Claudelio\\hexagonal-architecture-pattern\\DrivenAdapters\\MakeTransfer.Adapters.Database\\MakeTransfer.Adapters.Database.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RicardoChepe\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",
+    "C:\\Users\\RicardoChepe\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.32\\microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\RicardoChepe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.32\\microsoft.windowsdesktop.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\RicardoChepe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.32\\microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}

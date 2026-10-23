@@ -1,0 +1,16 @@
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\bin\Debug\net8.0\MakeTransfer.Adapters.Payment.deps.json
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\bin\Debug\net8.0\MakeTransfer.Adapters.Payment.dll
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\bin\Debug\net8.0\MakeTransfer.Adapters.Payment.pdb
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\bin\Debug\net8.0\MakeTransfer.Core.dll
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\bin\Debug\net8.0\MakeTransfer.Core.pdb
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\obj\Debug\net8.0\MakeTransfer.Adapters.Payment.csproj.AssemblyReference.cache
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\obj\Debug\net8.0\MakeTransfer.Adapters.Payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\obj\Debug\net8.0\MakeTransfer.Adapters.Payment.AssemblyInfoInputs.cache
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\obj\Debug\net8.0\MakeTransfer.Adapters.Payment.AssemblyInfo.cs
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\obj\Debug\net8.0\MakeTransfer.Adapters.Payment.csproj.CoreCompileInputs.cache
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\obj\Debug\net8.0\MakeTransfer.Adapters.Payment.sourcelink.json
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\obj\Debug\net8.0\MakeTran.E94917F8.Up2Date
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\obj\Debug\net8.0\MakeTransfer.Adapters.Payment.dll
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\obj\Debug\net8.0\refint\MakeTransfer.Adapters.Payment.dll
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\obj\Debug\net8.0\MakeTransfer.Adapters.Payment.pdb
+C:\Users\RicardoChepe\Documents\Claudelio\hexagonal-architecture-pattern\DrivenAdapters\MakeTransfer.Adapters.Payment\obj\Debug\net8.0\ref\MakeTransfer.Adapters.Payment.dll

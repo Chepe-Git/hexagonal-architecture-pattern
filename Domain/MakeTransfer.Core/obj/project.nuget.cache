@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cF2lAoNy9o4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RicardoChepe\\Documents\\Claudelio\\hexagonal-architecture-pattern\\Domain\\MakeTransfer.Core\\MakeTransfer.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RicardoChepe\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.32\\microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\RicardoChepe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.32\\microsoft.windowsdesktop.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\RicardoChepe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.32\\microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
