@@ -16,6 +16,13 @@ public interface IDatabaseOutputPort
     Account? GetAccountById(string accountId);
 
     /// <summary>
+    /// Retrieves a transfer by its identifier.
+    /// </summary>
+    /// <param name="transferId">The unique transfer identifier</param>
+    /// <returns>The transfer if found, null otherwise</returns>
+    Transfer? GetTransferById(string transferId);
+
+    /// <summary>
     /// Executes a complete transfer operation atomically.
     /// This includes updating both accounts and persisting the transfer record.
     /// </summary>
