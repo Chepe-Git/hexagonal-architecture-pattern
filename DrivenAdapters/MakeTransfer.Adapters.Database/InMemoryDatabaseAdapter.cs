@@ -33,6 +33,17 @@ public sealed class InMemoryDatabaseAdapter : IDatabaseOutputPort
         }
     }
 
+    public Transfer? GetTransferById(string transferId)
+    {
+        lock (_lockObject)
+        {
+            Console.WriteLine($"Looking up transfer: {transferId}");
+            var found = _transfers.TryGetValue(transferId, out var transfer);
+            Console.WriteLine($"Transfer {transferId} {(found ? "found" : "not found")}");
+            return transfer;
+        }
+    }
+
     public bool ExecuteTransfer(Account fromAccount, Account toAccount, Transfer transfer)
     {
         lock (_lockObject)

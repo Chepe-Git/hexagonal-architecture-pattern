@@ -1,3 +1,5 @@
+using System.Text.Json.Serialization;
+
 namespace MakeTransfer.Api.Models.Responses;
 
 /// <summary>
@@ -11,6 +13,9 @@ public sealed class TransferResponse
     public string Message { get; set; } = string.Empty;
     public DateTime ProcessedAt { get; set; }
     public string? ExternalReference { get; set; }
+
+    [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+    public string? FailureReason { get; set; }
 }
 
 /// <summary>
